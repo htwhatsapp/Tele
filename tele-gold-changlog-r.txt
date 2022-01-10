@@ -1,0 +1,17 @@
+Version 1.70. Changelog:
+
+>Added option to always show spoilers
+>Double tap a message to send a quick :thumbsup: reaction.
+>Tap on the message for more reactions.
+>Add 'Spoiler' formatting to hide some or all of the contents of a message.
+>Turn on Translation in Settings > Languages, then tap a message to translate it.
+>Generate custom QR Codes for any public t.me link â€“ works for profiles, groups, bots and channels.
+>Added option to use external main folder in android 11+
+>Added option to move files on Telegram/Plus folder from old to new path.
+>Protected content. Authors can limit the ability to save media, take screenshots and forward messages from their groups and channels.
+>Delete by date. Tap the date header in 1-on-1 chats and select a date range to clear chat history from that period.
+>Device management. Quickly connect desktop and web versions via QR codes. Control which devices may accept Calls or new Secret Chats.
+>Comment as one of your channels in public groups.
+>Added option to change sticker size in chat
+>Added option to hide sender selector in chat
+>Bug fixes and other minor improvements.
